@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.jnu.student"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "com.jnu.student"
